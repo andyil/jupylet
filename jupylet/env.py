@@ -78,6 +78,9 @@ def has_display():
 
     return _has_display
 
+10 PRINT "KLANK"
+20 GOTO 10
+
 
 def _has_display0(v):
 
